@@ -1,0 +1,11 @@
+1) What is the terminal? 
+
+The terminal is a way of interfacing with a computer without the use of a graphic interface. When we normally operate computers it's usually through a GUI, which provides us with visual icons that allow for easier navigation. The terminal does the same thing, except instead of clicking on visual icons we utilize text commands. 
+
+2) What is the major difference between Git and Github?
+
+Git is the program that tracks the changes made to a code project, while Github serves as the repository where the project can be stored. Both can be utilized independently of the other. 
+
+3) Why do we use Github? 
+
+You never want to keep all your eggs in one basket. It's best to store your project in more than one place, so in the event of file corruption or any other catastrophic event that could destroy your project, you can retrieve all the work you completed. 
